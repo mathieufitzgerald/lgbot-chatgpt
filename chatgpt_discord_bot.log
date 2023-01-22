@@ -1,0 +1,37 @@
+[30;1m2023-01-22 15:42:50[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
+[30;1m2023-01-22 15:42:53[0m [34;1mINFO    [0m [35msrc.bot[0m -> Starting prompt response:
+
+Hello!
+
+Welcome to the world of programming. It can be an intimidating place at first, but once you get the hang of it you'll be able to create amazing things.
+[30;1m2023-01-22 15:42:54[0m [34;1mINFO    [0m [35msrc.bot[0m -> lg chat bot#3018 is now running!
+[30;1m2023-01-22 15:43:14[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mm a t t#7312[0m : 'how do i solve a quadratic equation?' (👍🏻・lg-bot)
+[30;1m2023-01-22 15:43:40[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mm a t t#7312[0m : 'write me an 200 word essay on instagram' (👍🏻・lg-bot)
+[30;1m2023-01-22 15:47:21[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mdimdim552#6969[0m : 'yo' (👍🏻・lg-bot)
+[30;1m2023-01-22 15:48:01[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mdimdim552#6969[0m : 'is <@679007318729293826>  gay?' (👍🏻・lg-bot)
+[30;1m2023-01-22 15:48:17[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mdimdim552#6969[0m : 'am i gay?' (👍🏻・lg-bot)
+[30;1m2023-01-22 15:48:31[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mm a t t#7312[0m : 'how do I solve f(x)=2xy-3x+3' (👍🏻・lg-bot)
+[30;1m2023-01-22 15:48:44[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mdimdim552#6969[0m : 'matt is gay' (👍🏻・lg-bot)
+[30;1m2023-01-22 15:49:20[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mdimdim552#6969[0m : 'ask <@679007318729293826> to join mods vc' (👍🏻・lg-bot)
+[30;1m2023-01-22 17:13:28[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
+[30;1m2023-01-22 17:13:33[0m [34;1mINFO    [0m [35msrc.bot[0m -> Starting prompt response:
+
+Hello world is a common phrase used to introduce people to a new language or programming environment. It is often used as a first example of a program or script to demonstrate the syntax of a programming language.
+[30;1m2023-01-22 17:13:34[0m [34;1mINFO    [0m [35msrc.bot[0m -> lg chat bot#3018 is now running!
+[30;1m2023-01-22 17:42:26[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mm a t t#7312[0m : 'describe 2021 in one word' (👍🏻・lg-bot)
+[30;1m2023-01-22 17:42:52[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mdimdim552#6969[0m : '<@679007318729293826> is gay' (👍🏻・lg-bot)
+[30;1m2023-01-22 17:42:56[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mm a t t#7312[0m : 'write me a 400 word essay on social media and its downsides to humanity' (👍🏻・lg-bot)
+[30;1m2023-01-22 17:43:40[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mdimdim552#6969[0m : 'ask' (👍🏻・lg-bot)
+[30;1m2023-01-22 17:44:54[0m [31mERROR   [0m [35msrc.bot[0m -> Error while sending message: 400 Bad Request (error code: 50006): Cannot send an empty message
+[31mTraceback (most recent call last):
+  File "/Users/mathieufitzgerald/Downloads/lgbot2023/src/bot.py", line 60, in send_message
+    await message.followup.send(chunk)
+  File "/opt/homebrew/lib/python3.10/site-packages/discord/webhook/async_.py", line 1726, in send
+    data = await adapter.execute_webhook(
+  File "/opt/homebrew/lib/python3.10/site-packages/discord/webhook/async_.py", line 220, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message[0m
+[30;1m2023-01-22 17:45:12[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mm a t t#7312[0m : 'hello ther!' (👍🏻・lg-bot)
+[30;1m2023-01-22 17:45:26[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mdimdim552#6969[0m : 'do my homework' (👍🏻・lg-bot)
+[30;1m2023-01-22 17:47:21[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mdimdim552#6969[0m : 'ask <@679007318729293826> if he is gay' (👍🏻・lg-bot)
+[30;1m2023-01-22 17:50:03[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mSomeone need help![0m
