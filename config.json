@@ -1,5 +1,5 @@
 {
-    "discord_bot_token":"MTA2NjcxMzYwODg1MzE0MzU3Mg.G3CCAx.A5WcXIiB7heAP21R7hIr0guWL6vIZpwi_w7YwI",
-    "discord_channel_id":"1066706909807255642",
-    "openAI_key": "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"
+    "discord_bot_token":"YOUR BOT TOKEN",
+    "discord_channel_id":"YOUR DISCORD CHANNEL ID",
+    "openAI_key": "YOUR OPENAI ID"
 }
